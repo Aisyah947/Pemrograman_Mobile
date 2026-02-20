@@ -15,4 +15,4 @@ void main() {
   print(nama); 
 }
 
-Outputnya : Null
+Outputnya : Null 
