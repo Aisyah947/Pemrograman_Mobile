@@ -6,7 +6,7 @@ void main() {
     names1.add("Siti Aisyah");
     names1.addAll({"244107060038"});
 
-    names2.add("Siti Aisyah");
+    names2.add("Aisyah");
     names2.addAll({"244107060038"});
 
     print(names1);
