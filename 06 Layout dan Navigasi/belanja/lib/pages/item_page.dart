@@ -39,7 +39,7 @@ class ItemPage extends StatelessWidget {
 
             Text('Harga: Rp ${item.price}'),
             Text('Stok: ${item.stock}'),
-            Text('Rating: ⭐ ${item.rating}'),
+            Text('Rating: ${item.rating}'),
           ],
         ),
       ),
